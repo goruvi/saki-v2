@@ -50,7 +50,7 @@ async def on_message(message):
     if message.content.strip().lower() == "cá rán":
         await message.channel.send("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcrYH9seUHlSbhLhaS5GgC2egCbIh61oKJVS2V67sp3A&s=10")
     if message.content.strip().lower() == "đạt đùi nuột":
-        await message.channel.send("https://i.ibb.co/1qcmHfX/rn-image-picker-lib-temp-8accd7b7-9ded-42d6-a983-107287d19ce1.jpg")
+        await message.channel.send("https://i.ibb.co/2YNjr4SK/image0.jpg")
     await bot.process_commands(message)
 
 # Load Cogs
